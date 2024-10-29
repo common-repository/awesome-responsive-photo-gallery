@@ -1,0 +1,576 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Awesome Responsive Photo Gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-18 19:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: awesome-gallery.php:48
+msgid "Settings"
+msgstr ""
+
+#: awesome-gallery.php:112
+msgid "Plugin Info"
+msgstr ""
+
+#: awesome-gallery.php:114
+msgid "Version: 1.0.5"
+msgstr ""
+
+#: awesome-gallery.php:115
+msgid "Requires: Wordpress 3.5+"
+msgstr ""
+
+#: awesome-gallery.php:116
+msgid "First release: 8 March, 2018"
+msgstr ""
+
+#: awesome-gallery.php:117
+msgid "Last Update: 19 May, 2018"
+msgstr ""
+
+#: awesome-gallery.php:118
+msgid "By"
+msgstr ""
+
+#. Author of the plugin
+#: awesome-gallery.php:118
+msgid "Realwebcare"
+msgstr ""
+
+#: awesome-gallery.php:119
+msgid "Facebook Page"
+msgstr ""
+
+#: inc/arpg-admin.php:9 inc/arpg-process-options.php:25
+#: inc/arpg-process-options.php:40 inc/arpg-process-options.php:44
+#: inc/arpg-process-options.php:48 inc/arpg-process.php:10
+msgid "Awesome Gallery"
+msgstr ""
+
+#: inc/arpg-admin.php:10
+msgid "Gallery Lists"
+msgstr ""
+
+#: inc/arpg-admin.php:10
+msgid "All Galleries"
+msgstr ""
+
+#: inc/arpg-admin.php:14
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: inc/arpg-process-options.php:24
+msgid "General Settings"
+msgstr ""
+
+#: inc/arpg-process-options.php:26 inc/arpg-process-options.php:41
+#: inc/arpg-process-options.php:45 inc/arpg-process-options.php:49
+msgid "Lightcase Gallery"
+msgstr ""
+
+#: inc/arpg-process-options.php:27
+msgid "jGallery (Only Photo)"
+msgstr ""
+
+#: inc/arpg-process-options.php:35
+msgid "Modify Gallery Name"
+msgstr ""
+
+#: inc/arpg-process-options.php:37
+msgid "Select Which Gallery to Use"
+msgstr ""
+
+#: inc/arpg-process-options.php:42 inc/arpg-process-options.php:46
+#: inc/arpg-process-options.php:50
+msgid "J Gallery (Only Photo)"
+msgstr ""
+
+#: inc/arpg-process-options.php:54
+msgid "Gallery Container Width"
+msgstr ""
+
+#: inc/arpg-process-options.php:56
+msgid "Gallery Top Space"
+msgstr ""
+
+#: inc/arpg-process-options.php:58
+msgid "Gallery Bottom Space"
+msgstr ""
+
+#: inc/arpg-process-options.php:64
+msgid "Image Size"
+msgstr ""
+
+#: inc/arpg-process-options.php:64
+msgid ""
+"Set the image thumbnail size from here depends on how you want to display "
+"your gallery thumbnail."
+msgstr ""
+
+#: inc/arpg-process-options.php:67 inc/arpg-process-options.php:73
+#: inc/arpg-process-options.php:79 inc/arpg-process-options.php:85
+#: inc/arpg-process-options.php:91
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/arpg-process-options.php:68 inc/arpg-process-options.php:74
+#: inc/arpg-process-options.php:80 inc/arpg-process-options.php:86
+#: inc/arpg-process-options.php:92
+msgid "Medium"
+msgstr ""
+
+#: inc/arpg-process-options.php:69 inc/arpg-process-options.php:75
+#: inc/arpg-process-options.php:81 inc/arpg-process-options.php:87
+#: inc/arpg-process-options.php:93
+msgid "Large"
+msgstr ""
+
+#: inc/arpg-process-options.php:70 inc/arpg-process-options.php:76
+#: inc/arpg-process-options.php:82 inc/arpg-process-options.php:88
+#: inc/arpg-process-options.php:94
+msgid "Full Size"
+msgstr ""
+
+#: inc/arpg-process-options.php:71 inc/arpg-process-options.php:77
+#: inc/arpg-process-options.php:83 inc/arpg-process-options.php:89
+#: inc/arpg-process-options.php:95
+msgid "Custom"
+msgstr ""
+
+#: inc/arpg-process-options.php:99
+msgid "Gallery Thumbnail Width (in px)"
+msgstr ""
+
+#: inc/arpg-process-options.php:101
+msgid "Gallery Thumbnail Height (in px)"
+msgstr ""
+
+#: inc/arpg-process-options.php:104
+msgid "Space Between Thumbnails (in px)"
+msgstr ""
+
+#: inc/arpg-process-options.php:107
+msgid "Thumbnail Hover Image Effect"
+msgstr ""
+
+#: inc/arpg-process-options.php:107 inc/arpg-process-options.php:113
+msgid "Select a hover effect for gallery thumbnails."
+msgstr ""
+
+#: inc/arpg-process-options.php:113
+msgid "Thumbnail Hover Overlay Effect"
+msgstr ""
+
+#: inc/arpg-process-options.php:120
+msgid "Enable Thumbnail Title"
+msgstr ""
+
+#: inc/arpg-process-options.php:123 inc/arpg-process-options.php:126
+#: inc/arpg-process-options.php:133 inc/arpg-process-options.php:136
+#: inc/arpg-process-options.php:160 inc/arpg-process-options.php:163
+#: inc/arpg-process-options.php:228 inc/arpg-process-options.php:231
+#: inc/arpg-process-options.php:294 inc/arpg-process-options.php:297
+#: inc/arpg-process-options.php:327 inc/arpg-process-options.php:330
+#: inc/arpg-process-options.php:337 inc/arpg-process-options.php:340
+#: inc/arpg-process-options.php:347 inc/arpg-process-options.php:350
+#: inc/arpg-process-options.php:360 inc/arpg-process-options.php:363
+#: inc/arpg-process-options.php:378 inc/arpg-process-options.php:381
+#: inc/arpg-process-options.php:449 inc/arpg-process-options.php:452
+#: inc/arpg-process-options.php:468 inc/arpg-process-options.php:471
+msgid "Enable"
+msgstr ""
+
+#: inc/arpg-process-options.php:124 inc/arpg-process-options.php:127
+#: inc/arpg-process-options.php:134 inc/arpg-process-options.php:137
+#: inc/arpg-process-options.php:161 inc/arpg-process-options.php:164
+#: inc/arpg-process-options.php:227 inc/arpg-process-options.php:230
+#: inc/arpg-process-options.php:293 inc/arpg-process-options.php:296
+#: inc/arpg-process-options.php:326 inc/arpg-process-options.php:329
+#: inc/arpg-process-options.php:336 inc/arpg-process-options.php:339
+#: inc/arpg-process-options.php:346 inc/arpg-process-options.php:349
+#: inc/arpg-process-options.php:361 inc/arpg-process-options.php:364
+#: inc/arpg-process-options.php:377 inc/arpg-process-options.php:380
+#: inc/arpg-process-options.php:450 inc/arpg-process-options.php:453
+#: inc/arpg-process-options.php:469 inc/arpg-process-options.php:472
+msgid "Disable"
+msgstr ""
+
+#: inc/arpg-process-options.php:130
+msgid "Enable Thumbnail Caption"
+msgstr ""
+
+#: inc/arpg-process-options.php:140
+msgid "Info Background Opacity"
+msgstr ""
+
+#: inc/arpg-process-options.php:143
+msgid "Thumbnail Border Style"
+msgstr ""
+
+#: inc/arpg-process-options.php:145
+msgid "None"
+msgstr ""
+
+#: inc/arpg-process-options.php:151
+msgid "Thumbnail Border Width"
+msgstr ""
+
+#: inc/arpg-process-options.php:154
+msgid "Thumbnail Border Radius (in '%')"
+msgstr ""
+
+#: inc/arpg-process-options.php:157
+msgid "Enable Thumbnail Shadow"
+msgstr ""
+
+#: inc/arpg-process-options.php:168
+msgid "Shadow Horizontal &amp; Vertical Length"
+msgstr ""
+
+#: inc/arpg-process-options.php:170
+msgid "Shadow Blur Radius"
+msgstr ""
+
+#: inc/arpg-process-options.php:170
+msgid ""
+"If set to 0 the shadow will be sharp, the higher the number, the more "
+"blurred it will be, and the further out the shadow will extend. For instance "
+"a shadow with 5px of horizontal offset that also has a 5px blur radius will "
+"be 10px of total shadow."
+msgstr ""
+
+#: inc/arpg-process-options.php:172
+msgid "Shadow Spread Radius"
+msgstr ""
+
+#: inc/arpg-process-options.php:172
+msgid ""
+"(optional), positive values increase the size of the shadow, negative values "
+"decrease the size. Default is 0 (the shadow is same size as blur)."
+msgstr ""
+
+#: inc/arpg-process-options.php:174
+msgid "Shadow Color Opacity"
+msgstr ""
+
+#: inc/arpg-process-options.php:183
+msgid "Gallery Thumbnail Colors"
+msgstr ""
+
+#: inc/arpg-process-options.php:186
+msgid "Thumbnail Overlay Color"
+msgstr ""
+
+#: inc/arpg-process-options.php:190
+msgid "Thumbnail Border Color"
+msgstr ""
+
+#: inc/arpg-process-options.php:194
+msgid "Thumbnail Shadow Color"
+msgstr ""
+
+#: inc/arpg-process-options.php:198
+msgid "Thumbnail Info BG Color"
+msgstr ""
+
+#: inc/arpg-process-options.php:202
+msgid "Thumbnail Info Title Color"
+msgstr ""
+
+#: inc/arpg-process-options.php:206
+msgid "Thumbnail Info Caption Color"
+msgstr ""
+
+#: inc/arpg-process-options.php:218 inc/arpg-process-options.php:398
+msgid "Transition Effect Between Images"
+msgstr ""
+
+#: inc/arpg-process-options.php:224
+msgid "Loop back to the Beginning"
+msgstr ""
+
+#: inc/arpg-process-options.php:224
+msgid ""
+"If false, will disable the ability to loop back to the beginning of the "
+"gallery when on the last element."
+msgstr ""
+
+#: inc/arpg-process-options.php:234
+msgid "Transition duration (in ms)"
+msgstr ""
+
+#: inc/arpg-process-options.php:236
+msgid "Video Maximal Width (in px)"
+msgstr ""
+
+#: inc/arpg-process-options.php:236
+msgid "Set limit for video maximal width. Default: 855px."
+msgstr ""
+
+#: inc/arpg-process-options.php:241
+msgid "Show/Hide Download Button"
+msgstr ""
+
+#: inc/arpg-process-options.php:244 inc/arpg-process-options.php:247
+#: inc/arpg-process-options.php:254 inc/arpg-process-options.php:257
+#: inc/arpg-process-options.php:265 inc/arpg-process-options.php:268
+#: inc/arpg-process-options.php:274 inc/arpg-process-options.php:277
+#: inc/arpg-process-options.php:415 inc/arpg-process-options.php:418
+#: inc/arpg-process-options.php:426 inc/arpg-process-options.php:429
+#: inc/arpg-process-options.php:436 inc/arpg-process-options.php:439
+msgid "Show"
+msgstr ""
+
+#: inc/arpg-process-options.php:245 inc/arpg-process-options.php:248
+#: inc/arpg-process-options.php:255 inc/arpg-process-options.php:258
+#: inc/arpg-process-options.php:264 inc/arpg-process-options.php:267
+#: inc/arpg-process-options.php:275 inc/arpg-process-options.php:278
+#: inc/arpg-process-options.php:416 inc/arpg-process-options.php:419
+#: inc/arpg-process-options.php:427 inc/arpg-process-options.php:430
+#: inc/arpg-process-options.php:437 inc/arpg-process-options.php:440
+msgid "Hide"
+msgstr ""
+
+#: inc/arpg-process-options.php:251
+msgid "Show/Hide Fulscreen Button"
+msgstr ""
+
+#: inc/arpg-process-options.php:261
+msgid "Show/Hide Index Number"
+msgstr ""
+
+#: inc/arpg-process-options.php:261
+msgid ""
+"Whether to show total number of images and index number of currently "
+"displayed image."
+msgstr ""
+
+#: inc/arpg-process-options.php:271
+msgid "Show/Hide Share Button"
+msgstr ""
+
+#: inc/arpg-process-options.php:282
+msgid "Show/Hide Different Social Media Share"
+msgstr ""
+
+#: inc/arpg-process-options.php:284
+msgid "Facebook"
+msgstr ""
+
+#: inc/arpg-process-options.php:285
+msgid "Google Plus"
+msgstr ""
+
+#: inc/arpg-process-options.php:286
+msgid "Twitter"
+msgstr ""
+
+#: inc/arpg-process-options.php:287
+msgid "Pinterest"
+msgstr ""
+
+#: inc/arpg-process-options.php:290
+msgid "Disable Thumbnails for the Gallery"
+msgstr ""
+
+#: inc/arpg-process-options.php:309
+msgid "Transition Effect Between Sequences"
+msgstr ""
+
+#: inc/arpg-process-options.php:316
+msgid "Maximum Width for the Media Content"
+msgstr ""
+
+#: inc/arpg-process-options.php:318
+msgid "Maximum Height for the Media Content"
+msgstr ""
+
+#: inc/arpg-process-options.php:323
+msgid "Show/Hide Title"
+msgstr ""
+
+#: inc/arpg-process-options.php:333
+msgid "Show/Hide Caption"
+msgstr ""
+
+#: inc/arpg-process-options.php:343
+msgid "Show/Hide Sequence Info"
+msgstr ""
+
+#: inc/arpg-process-options.php:357
+msgid "Enable iframe Element"
+msgstr ""
+
+#: inc/arpg-process-options.php:368
+msgid "Video Frame Width"
+msgstr ""
+
+#: inc/arpg-process-options.php:370
+msgid "Video Frame Height"
+msgstr ""
+
+#: inc/arpg-process-options.php:374
+msgid "Enable HTML5 Video Options"
+msgstr ""
+
+#: inc/arpg-process-options.php:385
+msgid "Video Width"
+msgstr ""
+
+#: inc/arpg-process-options.php:387
+msgid "Video Height"
+msgstr ""
+
+#: inc/arpg-process-options.php:404
+msgid "Duration of Transition Between Photos"
+msgstr ""
+
+#: inc/arpg-process-options.php:404
+msgid "Value will be divided by 10. If you give 7 it will be 0.7"
+msgstr ""
+
+#: inc/arpg-process-options.php:406
+msgid "Maximum Mobile Width"
+msgstr ""
+
+#: inc/arpg-process-options.php:412
+msgid "Show/Hide Image Title"
+msgstr ""
+
+#: inc/arpg-process-options.php:423
+msgid "Show/Hide Close Icon"
+msgstr ""
+
+#: inc/arpg-process-options.php:433
+msgid "Show/Hide Zoom Icon"
+msgstr ""
+
+#: inc/arpg-process-options.php:446
+msgid "Display Thumbnail Toggle"
+msgstr ""
+
+#: inc/arpg-process-options.php:458
+msgid "Thumbnails Position"
+msgstr ""
+
+#: inc/arpg-process-options.php:465
+msgid "Hide Thumbnail on Mobile"
+msgstr ""
+
+#: inc/arpg-process-options.php:465
+msgid ""
+"If set as 'true', thumbnails will be hidden when width of window <= "
+"'maxMobileWidth' parameter (default value - 767px)."
+msgstr ""
+
+#: inc/arpg-process-options.php:484
+msgid "Update Gallery Options"
+msgstr ""
+
+#: inc/arpg-process-options.php:486
+msgid "Add Gallery Options"
+msgstr ""
+
+#: inc/arpg-process.php:10
+msgid "Add New"
+msgstr ""
+
+#: inc/arpg-process.php:15
+msgid "Awesome Gallery Name"
+msgstr ""
+
+#: inc/arpg-process.php:16
+msgid "Enter Gallery Name"
+msgstr ""
+
+#: inc/arpg-process.php:18
+msgid "Add Gallery"
+msgstr ""
+
+#: inc/arpg-process.php:28
+msgid "SN"
+msgstr ""
+
+#: inc/arpg-process.php:29
+msgid "Gallery Name"
+msgstr ""
+
+#: inc/arpg-process.php:30
+msgid "Gallery ID"
+msgstr ""
+
+#: inc/arpg-process.php:44
+msgid "Edit Options"
+msgstr ""
+
+#: inc/arpg-process.php:45 inc/arpg-process.php:57
+msgid "Delete"
+msgstr ""
+
+#: inc/arpg-process.php:56
+msgid "Add Options"
+msgstr ""
+
+#: inc/arpg-process.php:59
+msgid ""
+"Mouseover on the gallery name in the left and clicked on <strong>Add "
+"Options</strong> link. After adding gallery options you will get the <strong>"
+"GALLERY ID</strong> here."
+msgstr ""
+
+#: inc/arpg-process.php:68
+msgid ""
+"To create photo gallery go to <b>Pages >> Add New</b>. Click on <b>Add "
+"Media</b> button to open media uploader. Now click on <b>Create Gallery</b> "
+"and select <b>Upload Files</b> if you don't have any images. Upload your "
+"photos and after completing upload click on <b>Create a New Gallery</b> "
+"button. In the right side enter image <b>Title</b>, <b>Alt Text</b>, <b>"
+"Description</b>, <b>Caption</b> and <b>Video URL</b>, which you want. Now, "
+"click <b>Insert Gallery</b> button. In the gallery shortcode insert your "
+"desired <b>Gallery ID</b> (depends on how you want to show your gallery) "
+"from the above Gallery ID, like [gallery <b>id=\"1\"</b> ids=\"114,115,112,"
+"113,110\"]. You can click on <b>Gallery ID</b> button in <b>text mode</b> to "
+"insert gallery id. Finally, <b>Publish</b> your gallery. Click <b>View "
+"Page</b> then you can see an awesome image gallery :). The image gallery "
+"will act according to the settings of that perticular Gallery ID. If you "
+"want another gallery just create an unique id and input in shortcode like, "
+"[gallery <b>id=\"2\"</b> ids=\"506,505,502,503\"] or [gallery <b>id=\"3\"</b>"
+" ids=\"506,505,502,503\"]"
+msgstr ""
+
+#: inc/arpg-process.php:72
+msgid ""
+"You didn't add any gallery yet! Click on <strong>Add New</strong> button to "
+"get started.<br>If you need any support, feel free to share your problem in "
+"<a href=\"https://wordpress.org/support/plugin/awesome-responsive-photo-"
+"gallery\" target=\"_blank\">WordPress Support</a>. We&#39;d be happy to help "
+"you."
+msgstr ""
+
+#. Name of the plugin
+msgid "Awesome Responsive Photo Gallery"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Lightweight, touch-friendly, responsive, lightbox gallery jQuery plugin for "
+"displaying a photo gallery in fullscreen with CSS3 transition effects."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/awesome-responsive-photo-gallery/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://profiles.wordpress.org/moviehour/"
+msgstr ""
